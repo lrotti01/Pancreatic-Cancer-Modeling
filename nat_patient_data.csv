@@ -1,0 +1,457 @@
+Patient ID,Sample ID,Cancer Type Detailed,Mutation Count,Location,Stage,Tumor Other Histologic Subtype
+3.014,3.014,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+A10.7,A10.7,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+A2.1,A2.1,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+A32-1,A32-1,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+A38-5,A38-5,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+A44.2,A44.2,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+A6L,A6L,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+GARV_0658,GARV_0658,Pancreatic Adenocarcinoma,46,Head,IIB,Pancreatic Ductal Adenocarcinoma
+GARV_0659,GARV_0659,Pancreatic Adenocarcinoma,50,Head,IIB,Pancreatic Ductal Adenocarcinoma
+GARV_0660,GARV_0660,Pancreatic Adenocarcinoma,39,Head,IIB,Pancreatic Ductal Adenocarcinoma
+GARV_0661,GARV_0661,Pancreatic Adenocarcinoma,51,Head,IIB,Pancreatic Ductal Adenocarcinoma
+GARV_0662,GARV_0662,Pancreatic Adenocarcinoma,62,Head,IIB,Pancreatic Ductal Adenocarcinoma
+GARV_0663,GARV_0663,Pancreatic Adenocarcinoma,53,Head,IIB,Pancreatic Ductal Adenocarcinoma
+GARV_0664,GARV_0664,Pancreatic Adenocarcinoma,25,Head,IIA,Pancreatic Ductal Adenocarcinoma
+GARV_0665,GARV_0665,Pancreatic Adenocarcinoma,65,Head,IIB,Pancreatic Ductal Adenocarcinoma
+GARV_0666,GARV_0666,Pancreatic Adenocarcinoma,59,Head,IIB,Pancreatic Ductal Adenocarcinoma
+GARV_0667,GARV_0667,Pancreatic Adenocarcinoma,62,Head,IIA,Pancreatic Ductal Adenocarcinoma
+GARV_0668,GARV_0668,Pancreatic Adenocarcinoma,90,Head,IIB,Pancreatic Ductal Adenocarcinoma
+GARV_0669,GARV_0669,Pancreatic Adenocarcinoma,57,Head,IIA,Pancreatic Ductal Adenocarcinoma
+GARV_0670,GARV_0670,Pancreatic Adenocarcinoma,21,Body,IIA,Pancreatic Ductal Adenocarcinoma
+GARV_0671,GARV_0671,Pancreatic Adenocarcinoma,31,Head,IIA,PDA - Adenosquamous carcinoma
+GARV_0672,GARV_0672,Pancreatic Adenocarcinoma,38,Head,IIB,Intraductal Papillary Mucinous Neoplasm with invasion
+GARV_0673,GARV_0673,Pancreatic Adenocarcinoma,12,Body,IIB,PDA - Adenosquamous carcinoma
+GARV_0674,GARV_0674,Pancreatic Adenocarcinoma,16,Tail,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0002,ICGC_0002,Pancreatic Adenocarcinoma,64,Tail,IIB,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0003,ICGC_0003,Pancreatic Adenocarcinoma,5,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0004,ICGC_0004,Pancreatic Adenocarcinoma,39,Head,IIA,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0005,ICGC_0005,Pancreatic Adenocarcinoma,91,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0006,ICGC_0006,Pancreatic Adenocarcinoma,146,Body,IA,Pancreatic Ductal Adenocarcinoma
+ICGC_0007,ICGC_0007,Pancreatic Adenocarcinoma,34,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0008,ICGC_0008,Pancreatic Adenocarcinoma,47,Head,IIB,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0009,ICGC_0009,Pancreatic Adenocarcinoma,28,Head,IIA,PDA - Undifferentiated carcinoma with osteoclast like giant cells
+ICGC_0010,ICGC_0010,Pancreatic Adenocarcinoma,13,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0011,ICGC_0011,Pancreatic Adenocarcinoma,17,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0012,ICGC_0012,Pancreatic Adenocarcinoma,36,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0013,ICGC_0013,Pancreatic Adenocarcinoma,40,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0015,ICGC_0015,Pancreatic Adenocarcinoma,24,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0016,ICGC_0016,Pancreatic Adenocarcinoma,89,Head,IV,Pancreatic Ductal Adenocarcinoma
+ICGC_0017,ICGC_0017,Pancreatic Adenocarcinoma,30,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0018,ICGC_0018,Pancreatic Adenocarcinoma,38,Body,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0019,ICGC_0019,Pancreatic Adenocarcinoma,20,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0020,ICGC_0020,Pancreatic Adenocarcinoma,42,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0021,ICGC_0021,Pancreatic Adenocarcinoma,70,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0022,ICGC_0022,Pancreatic Adenocarcinoma,3,Body,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0023,ICGC_0023,Pancreatic Adenocarcinoma,23,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0024,ICGC_0024,Pancreatic Adenocarcinoma,11,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0025,ICGC_0025,Pancreatic Adenocarcinoma,34,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0026,ICGC_0026,Pancreatic Adenocarcinoma,40,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0027,ICGC_0027,Pancreatic Adenocarcinoma,21,Body,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0028,ICGC_0028,Pancreatic Adenocarcinoma,15,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0029,ICGC_0029,Pancreatic Adenocarcinoma,61,Head,IV,Pancreatic Ductal Adenocarcinoma
+ICGC_0030,ICGC_0030,Pancreatic Adenocarcinoma,31,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0031,ICGC_0031,Pancreatic Adenocarcinoma,43,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0032,ICGC_0032,Pancreatic Adenocarcinoma,37,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0033,ICGC_0033,Pancreatic Adenocarcinoma,78,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0034,ICGC_0034,Pancreatic Adenocarcinoma,173,Tail,IV,Pancreatic Ductal Adenocarcinoma
+ICGC_0035,ICGC_0035,Pancreatic Adenocarcinoma,64,Head,IIB,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0036,ICGC_0036,Pancreatic Adenocarcinoma,33,Head,IB,Pancreatic Ductal Adenocarcinoma
+ICGC_0037,ICGC_0037,Pancreatic Adenocarcinoma,95,Body,IIB,PDA - Adenosquamous carcinoma
+ICGC_0038,ICGC_0038,Pancreatic Adenocarcinoma,3,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0039,ICGC_0039,Pancreatic Adenocarcinoma,26,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0040,ICGC_0040,Pancreatic Adenocarcinoma,36,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0041,ICGC_0041,Pancreatic Adenocarcinoma,23,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0042,ICGC_0042,Pancreatic Adenocarcinoma,81,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0043,ICGC_0043,Pancreatic Adenocarcinoma,31,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0044,ICGC_0044,Pancreatic Adenocarcinoma,55,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0045,ICGC_0045,Pancreatic Adenocarcinoma,16,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0046,ICGC_0046,Pancreatic Adenocarcinoma,84,Body,IB,Pancreatic Ductal Adenocarcinoma
+ICGC_0047,ICGC_0047,Pancreatic Adenocarcinoma,30,Head,IIB,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0048,ICGC_0048,Pancreatic Adenocarcinoma,33,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0049,ICGC_0049,Pancreatic Adenocarcinoma,26,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0050,ICGC_0050,Pancreatic Adenocarcinoma,24,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0051,ICGC_0051,Pancreatic Adenocarcinoma,45,Head,IIB,PDA - Adenosquamous carcinoma
+ICGC_0052,ICGC_0052,Pancreatic Adenocarcinoma,76,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0053,ICGC_0053,Pancreatic Adenocarcinoma,32,Head,IV,Pancreatic Ductal Adenocarcinoma
+ICGC_0054,ICGC_0054,Pancreatic Adenocarcinoma,178,Tail,IIA,PDA - Adenosquamous carcinoma
+ICGC_0055,ICGC_0055,Pancreatic Adenocarcinoma,36,Tail,IIB,PDAC-Clear Cell
+ICGC_0056,ICGC_0056,Pancreatic Adenocarcinoma,38,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0057,ICGC_0057,Pancreatic Adenocarcinoma,32,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0058,ICGC_0058,Pancreatic Adenocarcinoma,42,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0059,ICGC_0059,Pancreatic Adenocarcinoma,54,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0060,ICGC_0060,Pancreatic Adenocarcinoma,45,Head,IIB,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0061,ICGC_0061,Pancreatic Adenocarcinoma,67,Head,IIB,PDA - Undifferentiated carcinoma (some multinucleated but not osteoclast)
+ICGC_0062,ICGC_0062,Pancreatic Adenocarcinoma,43,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0063,ICGC_0063,Pancreatic Adenocarcinoma,50,Head,IA,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0064,ICGC_0064,Pancreatic Adenocarcinoma,23,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0065,ICGC_0065,Pancreatic Adenocarcinoma,40,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0066,ICGC_0066,Pancreatic Adenocarcinoma,35,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0067,ICGC_0067,Pancreatic Adenocarcinoma,49,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0069,ICGC_0069,Pancreatic Adenocarcinoma,62,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0071,ICGC_0071,Pancreatic Adenocarcinoma,1,Head,IIB,PDA - Mucinous Non-cystic carcinoma
+ICGC_0072,ICGC_0072,Pancreatic Adenocarcinoma,42,Head,III,Pancreatic Ductal Adenocarcinoma
+ICGC_0075,ICGC_0075,Pancreatic Adenocarcinoma,51,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0076,ICGC_0076,Pancreatic Adenocarcinoma,1100,Head,III,PDA - Undifferentiated (anaplastic) carcinoma
+ICGC_0077,ICGC_0077,Pancreatic Adenocarcinoma,69,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0079,ICGC_0079,Pancreatic Adenocarcinoma,7,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0082,ICGC_0082,Pancreatic Adenocarcinoma,28,Head,III,Pancreatic Ductal Adenocarcinoma
+ICGC_0084,ICGC_0084,Pancreatic Adenocarcinoma,96,Head,IIB,Small Cell Carcinoma
+ICGC_0085,ICGC_0085,Pancreatic Adenocarcinoma,62,body,IV,Pancreatic Ductal Adenocarcinoma
+ICGC_0086,ICGC_0086,Pancreatic Adenocarcinoma,36,Head,IV,Pancreatic Ductal Adenocarcinoma
+ICGC_0087,ICGC_0087,Pancreatic Adenocarcinoma,69,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0088,ICGC_0088,Pancreatic Adenocarcinoma,92,Tail,IIA,PDA - Mucinous Non-cystic carcinoma
+ICGC_0089,ICGC_0089,Pancreatic Adenocarcinoma,97,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0090,ICGC_0090,Pancreatic Adenocarcinoma,330,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0092,ICGC_0092,Pancreatic Adenocarcinoma,30,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0093,ICGC_0093,Pancreatic Adenocarcinoma,42,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0094,ICGC_0094,Pancreatic Adenocarcinoma,1,Tail,IB,PDA - Adenosquamous carcinoma
+ICGC_0095,ICGC_0095,Pancreatic Adenocarcinoma,1,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0096,ICGC_0096,Pancreatic Adenocarcinoma,28,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0097,ICGC_0097,Pancreatic Adenocarcinoma,20,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0098,ICGC_0098,Pancreatic Adenocarcinoma,37,Body,III,Pancreatic Ductal Adenocarcinoma
+ICGC_0099,ICGC_0099,Pancreatic Adenocarcinoma,48,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0101,ICGC_0101,Pancreatic Adenocarcinoma,20,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0102,ICGC_0102,Pancreatic Adenocarcinoma,32,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0103,ICGC_0103,Pancreatic Adenocarcinoma,52,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0104,ICGC_0104,Pancreatic Adenocarcinoma,24,Body,III,Pancreatic Ductal Adenocarcinoma
+ICGC_0105,ICGC_0105,Pancreatic Adenocarcinoma,44,Head,IIA,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0106,ICGC_0106,Pancreatic Adenocarcinoma,31,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0107,ICGC_0107,Pancreatic Adenocarcinoma,38,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0108,ICGC_0108,Pancreatic Adenocarcinoma,32,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0109,ICGC_0109,Pancreatic Adenocarcinoma,66,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0110,ICGC_0110,Pancreatic Adenocarcinoma,23,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0111,ICGC_0111,Pancreatic Adenocarcinoma,6,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0112,ICGC_0112,Pancreatic Adenocarcinoma,24,Head,IIA,PDA - Adenosquamous carcinoma
+ICGC_0114,ICGC_0114,Pancreatic Adenocarcinoma,55,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0115,ICGC_0115,Pancreatic Adenocarcinoma,56,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0116,ICGC_0116,Pancreatic Adenocarcinoma,38,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0117,ICGC_0117,Pancreatic Adenocarcinoma,2,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0118,ICGC_0118,Pancreatic Adenocarcinoma,40,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0119,ICGC_0119,Pancreatic Adenocarcinoma,50,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0121,ICGC_0121,Pancreatic Adenocarcinoma,31,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0123,ICGC_0123,Pancreatic Adenocarcinoma,26,Head,IIB,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0124,ICGC_0124,Pancreatic Adenocarcinoma,32,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0125,ICGC_0125,Pancreatic Adenocarcinoma,32,Head,IB,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0131,ICGC_0131,Pancreatic Adenocarcinoma,106,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0132,ICGC_0132,Pancreatic Adenocarcinoma,29,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0133,ICGC_0133,Pancreatic Adenocarcinoma,1,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0134,ICGC_0134,Pancreatic Adenocarcinoma,76,Tail,IIB,PDA - Adenosquamous carcinoma
+ICGC_0135,ICGC_0135,Pancreatic Adenocarcinoma,44,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0136,ICGC_0136,Pancreatic Adenocarcinoma,8,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0137,ICGC_0137,Pancreatic Adenocarcinoma,55,Head,IV,PDA - Undifferentiated (anaplastic) carcinoma
+ICGC_0138,ICGC_0138,Pancreatic Adenocarcinoma,42,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0139,ICGC_0139,Pancreatic Adenocarcinoma,24,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0140,ICGC_0140,Pancreatic Adenocarcinoma,63,Head,IIA,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0141,ICGC_0141,Pancreatic Adenocarcinoma,70,Body,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0143,ICGC_0143,Pancreatic Adenocarcinoma,34,Head,IIA,PDA -  signet ring
+ICGC_0144,ICGC_0144,Pancreatic Adenocarcinoma,26,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0146,ICGC_0146,Pancreatic Adenocarcinoma,17,Head,IB,Pancreatic Ductal Adenocarcinoma
+ICGC_0147,ICGC_0147,Pancreatic Adenocarcinoma,30,Body,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0148,ICGC_0148,Pancreatic Adenocarcinoma,21,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0149,ICGC_0149,Pancreatic Adenocarcinoma,113,Head,IIA,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0150,ICGC_0150,Pancreatic Adenocarcinoma,59,Head,IIA,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0152,ICGC_0152,Pancreatic Adenocarcinoma,25,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0153,ICGC_0153,Pancreatic Adenocarcinoma,58,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0154,ICGC_0154,Pancreatic Adenocarcinoma,28,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0157,ICGC_0157,Pancreatic Adenocarcinoma,9,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0159,ICGC_0159,Pancreatic Adenocarcinoma,20,Head,IIB,PDA - Adenosquamous carcinoma
+ICGC_0162,ICGC_0162,Pancreatic Adenocarcinoma,27,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0164,ICGC_0164,Pancreatic Adenocarcinoma,12,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0165,ICGC_0165,Pancreatic Adenocarcinoma,21,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0169,ICGC_0169,Pancreatic Adenocarcinoma,48,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0170,ICGC_0170,Pancreatic Adenocarcinoma,5,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0173,ICGC_0173,Pancreatic Adenocarcinoma,39,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0174,ICGC_0174,Pancreatic Adenocarcinoma,74,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0175,ICGC_0175,Pancreatic Adenocarcinoma,18,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0178,ICGC_0178,Pancreatic Adenocarcinoma,58,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0179,ICGC_0179,Pancreatic Adenocarcinoma,23,Tail,IIA,Mucinous Cystadenocarcinoma
+ICGC_0180,ICGC_0180,Pancreatic Adenocarcinoma,2,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0182,ICGC_0182,Pancreatic Adenocarcinoma,29,Head,IB,Pancreatic Ductal Adenocarcinoma
+ICGC_0185,ICGC_0185,Pancreatic Adenocarcinoma,26,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0187,ICGC_0187,Pancreatic Adenocarcinoma,13,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0188,ICGC_0188,Pancreatic Adenocarcinoma,39,Body,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0190,ICGC_0190,Pancreatic Adenocarcinoma,32,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0191,ICGC_0191,Pancreatic Adenocarcinoma,17,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0192,ICGC_0192,Pancreatic Adenocarcinoma,82,Tail,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0194,ICGC_0194,Pancreatic Adenocarcinoma,55,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0195,ICGC_0195,Pancreatic Adenocarcinoma,4,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0197,ICGC_0197,Pancreatic Adenocarcinoma,27,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0199,ICGC_0199,Pancreatic Adenocarcinoma,31,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0201,ICGC_0201,Pancreatic Adenocarcinoma,34,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0202,ICGC_0202,Pancreatic Adenocarcinoma,7,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0203,ICGC_0203,Pancreatic Adenocarcinoma,29,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0205,ICGC_0205,Pancreatic Adenocarcinoma,39,Tail,IB,Pancreatic Ductal Adenocarcinoma
+ICGC_0206,ICGC_0206,Pancreatic Adenocarcinoma,46,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0207,ICGC_0207,Pancreatic Adenocarcinoma,77,Head,IB,Pancreatic Ductal Adenocarcinoma
+ICGC_0208,ICGC_0208,Pancreatic Adenocarcinoma,33,Body,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0209,ICGC_0209,Pancreatic Adenocarcinoma,32,Head,IA,Pancreatic Ductal Adenocarcinoma
+ICGC_0210,ICGC_0210,Pancreatic Adenocarcinoma,11,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0212,ICGC_0212,Pancreatic Adenocarcinoma,42,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0214,ICGC_0214,Pancreatic Adenocarcinoma,33,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0215,ICGC_0215,Pancreatic Adenocarcinoma,134,Tail,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0216,ICGC_0216,Pancreatic Adenocarcinoma,18,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0217,ICGC_0217,Pancreatic Adenocarcinoma,43,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0219,ICGC_0219,Pancreatic Adenocarcinoma,12,Tail,IA,PDA - Undifferentiated carcinoma with spindling and osteoclast like giant cells
+ICGC_0223,ICGC_0223,Pancreatic Adenocarcinoma,30,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0224,ICGC_0224,Pancreatic Adenocarcinoma,48,Body,IA,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0225,ICGC_0225,Pancreatic Adenocarcinoma,39,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0226,ICGC_0226,Pancreatic Adenocarcinoma,5,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0227,ICGC_0227,Pancreatic Adenocarcinoma,80,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0228,ICGC_0228,Pancreatic Adenocarcinoma,48,Head,III,Pancreatic Ductal Adenocarcinoma
+ICGC_0229,ICGC_0229,Pancreatic Adenocarcinoma,57,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0230,ICGC_0230,Pancreatic Adenocarcinoma,29,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0234,ICGC_0234,Pancreatic Adenocarcinoma,22,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0235,ICGC_0235,Pancreatic Adenocarcinoma,41,Tail,IV,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0236,ICGC_0236,Pancreatic Adenocarcinoma,40,Head,IB,Pancreatic Ductal Adenocarcinoma
+ICGC_0238,ICGC_0238,Pancreatic Adenocarcinoma,10,Head,IIB,PDA - Mucinous Non-cystic carcinoma
+ICGC_0239,ICGC_0239,Pancreatic Adenocarcinoma,33,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0240,ICGC_0240,Pancreatic Adenocarcinoma,6,Head,IIA,PDAC-Clear Cell
+ICGC_0241,ICGC_0241,Pancreatic Adenocarcinoma,16,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0242,ICGC_0242,Pancreatic Adenocarcinoma,34,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0243,ICGC_0243,Pancreatic Adenocarcinoma,6,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0244,ICGC_0244,Pancreatic Adenocarcinoma,49,Head,III,Pancreatic Ductal Adenocarcinoma
+ICGC_0245,ICGC_0245,Pancreatic Adenocarcinoma,42,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0246,ICGC_0246,Pancreatic Adenocarcinoma,10,Head,IIA,PDA - Mucinous Non-cystic carcinoma
+ICGC_0247,ICGC_0247,Pancreatic Adenocarcinoma,3,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0251,ICGC_0251,Pancreatic Adenocarcinoma,11,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0252,ICGC_0252,Pancreatic Adenocarcinoma,35,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0253,ICGC_0253,Pancreatic Adenocarcinoma,20,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0254,ICGC_0254,Pancreatic Adenocarcinoma,4,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0255,ICGC_0255,Pancreatic Adenocarcinoma,28,Body,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0256,ICGC_0256,Pancreatic Adenocarcinoma,77,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0257,ICGC_0257,Pancreatic Adenocarcinoma,27,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0258,ICGC_0258,Pancreatic Adenocarcinoma,12,Head,IA,Pancreatic Ductal Adenocarcinoma
+ICGC_0259,ICGC_0259,Pancreatic Adenocarcinoma,25,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0260,ICGC_0260,Pancreatic Adenocarcinoma,22,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0263,ICGC_0263,Pancreatic Adenocarcinoma,33,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0264,ICGC_0264,Pancreatic Adenocarcinoma,2,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0265,ICGC_0265,Pancreatic Adenocarcinoma,10,Head,III,Pancreatic Ductal Adenocarcinoma
+ICGC_0266,ICGC_0266,Pancreatic Adenocarcinoma,4,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0267,ICGC_0267,Pancreatic Adenocarcinoma,15,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0269,ICGC_0269,Pancreatic Adenocarcinoma,28,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0270,ICGC_0270,Pancreatic Adenocarcinoma,26,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0271,ICGC_0271,Pancreatic Adenocarcinoma,21,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0273,ICGC_0273,Pancreatic Adenocarcinoma,33,Body,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0274,ICGC_0274,Pancreatic Adenocarcinoma,9,Body,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0275,ICGC_0275,Pancreatic Adenocarcinoma,23,Body,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0276,ICGC_0276,Pancreatic Adenocarcinoma,41,Body,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0277,ICGC_0277,Pancreatic Adenocarcinoma,44,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0278,ICGC_0278,Pancreatic Adenocarcinoma,32,Body,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0279,ICGC_0279,Pancreatic Adenocarcinoma,14,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0280,ICGC_0280,Pancreatic Adenocarcinoma,46,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0282,ICGC_0282,Pancreatic Adenocarcinoma,40,Body,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0283,ICGC_0283,Pancreatic Adenocarcinoma,41,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0285,ICGC_0285,Pancreatic Adenocarcinoma,51,Head,IIB,PDA - Undifferentiated (anaplastic) carcinoma
+ICGC_0286,ICGC_0286,Pancreatic Adenocarcinoma,54,Head,IA,PDA - Mucinous Non-cystic carcinoma
+ICGC_0288,ICGC_0288,Pancreatic Adenocarcinoma,28,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0289,ICGC_0289,Pancreatic Adenocarcinoma,44,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0290,ICGC_0290,Pancreatic Adenocarcinoma,165,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0291,ICGC_0291,Pancreatic Adenocarcinoma,87,,,
+ICGC_0292,ICGC_0292,Pancreatic Adenocarcinoma,36,Body,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0294,ICGC_0294,Pancreatic Adenocarcinoma,11,Body,IV,Pancreatic Ductal Adenocarcinoma
+ICGC_0295,ICGC_0295,Pancreatic Adenocarcinoma,54,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0296,ICGC_0296,Pancreatic Adenocarcinoma,60,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0300,ICGC_0300,Pancreatic Adenocarcinoma,28,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0301,ICGC_0301,Pancreatic Adenocarcinoma,25,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0302,ICGC_0302,Pancreatic Adenocarcinoma,19,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0303,ICGC_0303,Pancreatic Adenocarcinoma,87,Head,IV,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0304,ICGC_0304,Pancreatic Adenocarcinoma,46,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0305,ICGC_0305,Pancreatic Adenocarcinoma,40,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0307,ICGC_0307,Pancreatic Adenocarcinoma,14,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0308,ICGC_0308,Pancreatic Adenocarcinoma,1,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0309,ICGC_0309,Pancreatic Adenocarcinoma,82,Head,IIA,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0310,ICGC_0310,Pancreatic Adenocarcinoma,26,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0311,ICGC_0311,Pancreatic Adenocarcinoma,8,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0312,ICGC_0312,Pancreatic Adenocarcinoma,39,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0313,ICGC_0313,Pancreatic Adenocarcinoma,40,Head,IV,PDA - Adenosquamous carcinoma
+ICGC_0314,ICGC_0314,Pancreatic Adenocarcinoma,24,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0315,ICGC_0315,Pancreatic Adenocarcinoma,42,Head,III,Pancreatic Ductal Adenocarcinoma
+ICGC_0316,ICGC_0316,Pancreatic Adenocarcinoma,47,Head,III,Pancreatic Ductal Adenocarcinoma
+ICGC_0317,ICGC_0317,Pancreatic Adenocarcinoma,33,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0318,ICGC_0318,Pancreatic Adenocarcinoma,30,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0319,ICGC_0319,Pancreatic Adenocarcinoma,62,Tail,IIB,PDA - Adenosquamous carcinoma
+ICGC_0320,ICGC_0320,Pancreatic Adenocarcinoma,34,Tail,IV,Pancreatic Ductal Adenocarcinoma
+ICGC_0321,ICGC_0321,Pancreatic Adenocarcinoma,130,Head,IB,Pancreatic Ductal Adenocarcinoma
+ICGC_0322,ICGC_0322,Pancreatic Adenocarcinoma,31,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0323,ICGC_0323,Pancreatic Adenocarcinoma,29,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0324,ICGC_0324,Pancreatic Adenocarcinoma,113,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0326,ICGC_0326,Pancreatic Adenocarcinoma,50,Tail,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0327,ICGC_0327,Pancreatic Adenocarcinoma,53,,,Pancreatic Ductal Adenocarcinoma
+ICGC_0328,ICGC_0328,Pancreatic Adenocarcinoma,193,,,Pancreatic Ductal Adenocarcinoma
+ICGC_0329,ICGC_0329,Pancreatic Adenocarcinoma,60,,,Pancreatic Ductal Adenocarcinoma
+ICGC_0336,ICGC_0336,Pancreatic Adenocarcinoma,23,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0337,ICGC_0337,Pancreatic Adenocarcinoma,23,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0338,ICGC_0338,Pancreatic Adenocarcinoma,54,Tail,IIB,Acinar Cell Carcinoma
+ICGC_0339,ICGC_0339,Pancreatic Adenocarcinoma,28,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0340,ICGC_0340,Pancreatic Adenocarcinoma,32,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0341,ICGC_0341,Pancreatic Adenocarcinoma,52,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0342,ICGC_0342,Pancreatic Adenocarcinoma,35,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0343,ICGC_0343,Pancreatic Adenocarcinoma,15,Head,IIB,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0345,ICGC_0345,Pancreatic Adenocarcinoma,27,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0346,ICGC_0346,Pancreatic Adenocarcinoma,45,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0347,ICGC_0347,Pancreatic Adenocarcinoma,4,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0349,ICGC_0349,Pancreatic Adenocarcinoma,47,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0350,ICGC_0350,Pancreatic Adenocarcinoma,24,Tail,IB,PDA - Adenosquamous carcinoma
+ICGC_0351,ICGC_0351,Pancreatic Adenocarcinoma,20,Head,IIA,PDA - Mixed ductal endocrine carcinoma
+ICGC_0352,ICGC_0352,Pancreatic Adenocarcinoma,6,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0354,ICGC_0354,Pancreatic Adenocarcinoma,32,Head,IV,Pancreatic Ductal Adenocarcinoma
+ICGC_0358,ICGC_0358,Pancreatic Adenocarcinoma,1,Head,IV,Pancreatic Ductal Adenocarcinoma
+ICGC_0360,ICGC_0360,Pancreatic Adenocarcinoma,17,Head,IIB,PDAC-Clear Cell
+ICGC_0361,ICGC_0361,Pancreatic Adenocarcinoma,8,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0362,ICGC_0362,Pancreatic Adenocarcinoma,10,Tail,IV,Pancreatic Ductal Adenocarcinoma
+ICGC_0363,ICGC_0363,Pancreatic Adenocarcinoma,27,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0364,ICGC_0364,Pancreatic Adenocarcinoma,61,Body,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0365,ICGC_0365,Pancreatic Adenocarcinoma,32,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0366,ICGC_0366,Pancreatic Adenocarcinoma,43,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0367,ICGC_0367,Pancreatic Adenocarcinoma,62,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0368,ICGC_0368,Pancreatic Adenocarcinoma,35,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0369,ICGC_0369,Pancreatic Adenocarcinoma,30,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0370,ICGC_0370,Pancreatic Adenocarcinoma,19,Head,IIB,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0371,ICGC_0371,Pancreatic Adenocarcinoma,30,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0372,ICGC_0372,Pancreatic Adenocarcinoma,13,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0373,ICGC_0373,Pancreatic Adenocarcinoma,18,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0374,ICGC_0374,Pancreatic Adenocarcinoma,58,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0375,ICGC_0375,Pancreatic Adenocarcinoma,67,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0376,ICGC_0376,Pancreatic Adenocarcinoma,64,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0377,ICGC_0377,Pancreatic Adenocarcinoma,31,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0378,ICGC_0378,Pancreatic Adenocarcinoma,30,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0380,ICGC_0380,Pancreatic Adenocarcinoma,35,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0381,ICGC_0381,Pancreatic Adenocarcinoma,24,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0382,ICGC_0382,Pancreatic Adenocarcinoma,12,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0383,ICGC_0383,Pancreatic Adenocarcinoma,28,Head,IIA,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0384,ICGC_0384,Pancreatic Adenocarcinoma,80,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0385,ICGC_0385,Pancreatic Adenocarcinoma,18,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0386,ICGC_0386,Pancreatic Adenocarcinoma,43,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0387,ICGC_0387,Pancreatic Adenocarcinoma,25,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0388,ICGC_0388,Pancreatic Adenocarcinoma,31,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0389,ICGC_0389,Pancreatic Adenocarcinoma,10,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0391,ICGC_0391,Pancreatic Adenocarcinoma,29,Head,IIB,Acinar Cell Carcinoma
+ICGC_0392,ICGC_0392,Pancreatic Adenocarcinoma,63,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0393,ICGC_0393,Pancreatic Adenocarcinoma,60,Head,IB,PDA - Adenosquamous carcinoma
+ICGC_0394,ICGC_0394,Pancreatic Adenocarcinoma,7,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0395,ICGC_0395,Pancreatic Adenocarcinoma,66,Head,IA,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0396,ICGC_0396,Pancreatic Adenocarcinoma,18,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0398,ICGC_0398,Pancreatic Adenocarcinoma,2,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0399,ICGC_0399,Pancreatic Adenocarcinoma,3,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0401,ICGC_0401,Pancreatic Adenocarcinoma,1,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0402,ICGC_0402,Pancreatic Adenocarcinoma,25,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0403,ICGC_0403,Pancreatic Adenocarcinoma,21,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0404,ICGC_0404,Pancreatic Adenocarcinoma,5,Body,IIB,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0405,ICGC_0405,Pancreatic Adenocarcinoma,8,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0406,ICGC_0406,Pancreatic Adenocarcinoma,48,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0407,ICGC_0407,Pancreatic Adenocarcinoma,7,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0408,ICGC_0408,Pancreatic Adenocarcinoma,26,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0411,ICGC_0411,Pancreatic Adenocarcinoma,1,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0412,ICGC_0412,Pancreatic Adenocarcinoma,33,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0414,ICGC_0414,Pancreatic Adenocarcinoma,9,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0415,ICGC_0415,Pancreatic Adenocarcinoma,35,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0416,ICGC_0416,Pancreatic Adenocarcinoma,36,Tail,IIB,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0417,ICGC_0417,Pancreatic Adenocarcinoma,47,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0418,ICGC_0418,Pancreatic Adenocarcinoma,59,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0419,ICGC_0419,Pancreatic Adenocarcinoma,54,Head,IIB,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0420,ICGC_0420,Pancreatic Adenocarcinoma,94,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0422,ICGC_0422,Pancreatic Adenocarcinoma,47,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0423,ICGC_0423,Pancreatic Adenocarcinoma,67,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0462,ICGC_0462,Pancreatic Adenocarcinoma,,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0464,ICGC_0464,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0465,ICGC_0465,Pancreatic Adenocarcinoma,1,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0467,ICGC_0467,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0468,ICGC_0468,Pancreatic Adenocarcinoma,,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0469,ICGC_0469,Pancreatic Adenocarcinoma,,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0470,ICGC_0470,Pancreatic Adenocarcinoma,,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0472,ICGC_0472,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0474,ICGC_0474,Pancreatic Adenocarcinoma,,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0476,ICGC_0476,Pancreatic Adenocarcinoma,,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0477,ICGC_0477,Pancreatic Adenocarcinoma,,Tail,IIB,PDA - Adenosquamous carcinoma
+ICGC_0478,ICGC_0478,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0479,ICGC_0479,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0480,ICGC_0480,Pancreatic Adenocarcinoma,,Tail,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0481,ICGC_0481,Pancreatic Adenocarcinoma,,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0482,ICGC_0482,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0483,ICGC_0483,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0484,ICGC_0484,Pancreatic Adenocarcinoma,,Head,IIB,PDA - Adenosquamous carcinoma
+ICGC_0485,ICGC_0485,Pancreatic Adenocarcinoma,1,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0486,ICGC_0486,Pancreatic Adenocarcinoma,39,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0488,ICGC_0488,Pancreatic Adenocarcinoma,11,Body,IB,Pancreatic Ductal Adenocarcinoma
+ICGC_0493,ICGC_0493,Pancreatic Adenocarcinoma,16,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0499,ICGC_0499,Pancreatic Adenocarcinoma,43,Body,IV,Mucinous Cystadenocarcinoma
+ICGC_0502,ICGC_0502,Pancreatic Adenocarcinoma,49,Head,IIB,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0503,ICGC_0503,Pancreatic Adenocarcinoma,29,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0504,ICGC_0504,Pancreatic Adenocarcinoma,47,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0505,ICGC_0505,Pancreatic Adenocarcinoma,16,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0507,ICGC_0507,Pancreatic Adenocarcinoma,29,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0508,ICGC_0508,Pancreatic Adenocarcinoma,11,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0509,ICGC_0509,Pancreatic Adenocarcinoma,48,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0510,ICGC_0510,Pancreatic Adenocarcinoma,44,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0511,ICGC_0511,Pancreatic Adenocarcinoma,44,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0512,ICGC_0512,Pancreatic Adenocarcinoma,44,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0513,ICGC_0513,Pancreatic Adenocarcinoma,41,Head,IIB,Intraductal Papillary Mucinous Neoplasm with invasion
+ICGC_0518,ICGC_0518,Pancreatic Adenocarcinoma,29,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0520,ICGC_0520,Pancreatic Adenocarcinoma,28,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0521,ICGC_0521,Pancreatic Adenocarcinoma,36,Tail,IV,Pancreatic Ductal Adenocarcinoma
+ICGC_0522,ICGC_0522,Pancreatic Adenocarcinoma,46,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0523,ICGC_0523,Pancreatic Adenocarcinoma,50,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0524,ICGC_0524,Pancreatic Adenocarcinoma,38,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0526,ICGC_0526,Pancreatic Adenocarcinoma,51,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0527,ICGC_0527,Pancreatic Adenocarcinoma,51,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0528,ICGC_0528,Pancreatic Adenocarcinoma,47,Head,IIA,Pancreatic Ductal Adenocarcinoma
+ICGC_0529,ICGC_0529,Pancreatic Adenocarcinoma,45,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0530,ICGC_0530,Pancreatic Adenocarcinoma,26,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0531,ICGC_0531,Pancreatic Adenocarcinoma,55,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0532,ICGC_0532,Pancreatic Adenocarcinoma,41,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0535,ICGC_0535,Pancreatic Adenocarcinoma,30,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0536,ICGC_0536,Pancreatic Adenocarcinoma,63,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0542,ICGC_0542,Pancreatic Adenocarcinoma,48,Head,IIB,Pancreatic Ductal Adenocarcinoma
+ICGC_0543,ICGC_0543,Pancreatic Adenocarcinoma,48,Tail,IIA,PDA - Adenosquamous carcinoma
+ICGC_0548,ICGC_0548,Pancreatic Adenocarcinoma,984,Head,IB,Pancreatic Ductal Adenocarcinoma
+ICGC_0549,ICGC_0549,Pancreatic Adenocarcinoma,55,Body,IIA,Pancreatic Ductal Adenocarcinoma
+JD13D,JD13D,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+JH011,JH011,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+JH024,JH024,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+JH029,JH029,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+JH033,JH033,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA018,PA018,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA028,PA028,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA055,PA055,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA086,PA086,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA090,PA090,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA107,PA107,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA122,PA122,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA167,PA167,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA182,PA182,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA195,PA195,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA202,PA202,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA215,PA215,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA254,PA254,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA285,PA285,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PA333,PA333,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PACA-2440-T,PACA-2440-T,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+PACA-44-T,PACA-44-T,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+PACA-55-T,PACA-55-T,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+PACA-59-T,PACA-59-T,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+PACA-73-T,PACA-73-T,Pancreatic Adenocarcinoma,,Tail,IB,Mucinous Cystadenocarcinoma
+PANC-253,PANC--253,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PANC-140,PANC-140,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PANC-185,PANC-185,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PANC-194,PANC-194,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PANC-198,PANC-198,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PANC-2.5,PANC-2.5,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PANC-215,PANC-215,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PANC-247,PANC-247,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
+PCSI0001,PCSI0001,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+PCSI0002,PCSI0002,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+PCSI0007,PCSI0007,Pancreatic Adenocarcinoma,,Head,IIA,Pancreatic Ductal Adenocarcinoma
+PCSI0010,PCSI0010,Pancreatic Adenocarcinoma,,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+PCSI0018,PCSI0018,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+PCSI0019,PCSI0019,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+PCSI0022,PCSI0022,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+PCSI0023,PCSI0023,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+PCSI0024,PCSI0024,Pancreatic Adenocarcinoma,,Tail,IIB,Pancreatic Ductal Adenocarcinoma
+PCSI0044,PCSI0044,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+PCSI0046,PCSI0046,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+PCSI0047,PCSI0047,Pancreatic Adenocarcinoma,,Head,III,Pancreatic Ductal Adenocarcinoma
+PCSI0048,PCSI0048,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+PCSI0072,PCSI0072,Pancreatic Adenocarcinoma,,Head,IIB,Pancreatic Ductal Adenocarcinoma
+PCSI0073,PCSI0073,Pancreatic Adenocarcinoma,,Head,IIA,Pancreatic Ductal Adenocarcinoma
+TS-0111,TS-0111,Pancreatic Adenocarcinoma,,,Unknown,Pancreatic Ductal Adenocarcinoma
